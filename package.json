@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "acorn": "^7.1.0",
+    "acorn": "^7.1.1",
     "acorn-jsx": "^5.1.0",
     "ansi-regex": "^5.0.0",
     "ansi-styles": "^3.2.1",
